@@ -13,6 +13,7 @@ Welcome to the fast get Canva Pro Guide! By g0d
 <br>
 <br>
 <br>
+
 ---
 
 ## Step 1 Install Extensions (Browser)
