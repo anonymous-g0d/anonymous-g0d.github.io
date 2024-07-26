@@ -30,6 +30,7 @@ Welcome to the fast get Canva Pro Guide! By g0d
 https://anonymous-g0d.github.io/Canva <== 'you can copy to bookmark'<br>
 *wait 60sec for accept site.*<br>
 after finish 60sec my script will auto to invite
+
 ---
 
 Enjoy!
