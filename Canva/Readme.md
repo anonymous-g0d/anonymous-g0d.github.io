@@ -20,3 +20,11 @@ Welcome to the fast get Canva Pro Guide! By g0d
 ---
 
 Enjoy!
+
+
+---
+this the way fix, if don't work or not supported
+### maunual get
+1. go to https://anonymous-g0d.github.io/Canva
+2. click Download (Orange Button)
+3. Click "Get HERE" button
