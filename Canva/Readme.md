@@ -11,16 +11,7 @@ Welcome to the fast get Canva Pro Guide! By g0d
 ### *If the team is full Come back and check again (1-2 hours or check every 30 minutes).
 <br>
 
-
-
-
-
 ![rr](https://github.com/anonymous-g0d/anonymous-g0d.github.io/blob/main/Canva/rick-roll.gif)
-
-
-
-
-
 
 <br>
 
