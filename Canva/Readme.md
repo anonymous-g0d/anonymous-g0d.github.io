@@ -16,7 +16,7 @@ Welcome to the fast get Canva Pro Guide! By g0d
 
 ## Step 3 Go to site and get Pro
 *My script will quickly take you to that invite.*<br>
-[Click](https://anonymous-g0d.github.io/Canva) <-- https://anonymous-g0d.github.io/Canva 'same site, you can bookmark site'
+https://anonymous-g0d.github.io/Canva <== 'you can bookmark site'
 
 ---
 
