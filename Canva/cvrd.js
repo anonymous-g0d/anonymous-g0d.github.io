@@ -1,12 +1,15 @@
 // ==UserScript==
 // @name         Canva Pro by anonymous.g0d
-// @namespace    http://tampermonkey.net/
-// @version      0.4
+// @namespace    .js Scripts
+// @version      1.0beta
 // @match        https://bingotingo.com/best-social-media-platforms/
 // @match        https://biozium.com/public/bio-links/*
+// @author      https://github.com/anonymous-g0d
+// @grant       GM_xmlhttpRequest
+// @description Enjoy!
 // @updateURL    https://raw.githubusercontent.com/anonymous-g0d/anonymous-g0d.github.io/main/Canva/cvrd.js
 // @downloadURL  https://raw.githubusercontent.com/anonymous-g0d/anonymous-g0d.github.io/main/Canva/cvrd.js
-// @grant        none
+// @license     GPL-3.0
 // ==/UserScript==
 
 (function() {
