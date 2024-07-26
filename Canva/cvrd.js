@@ -4,8 +4,8 @@
 // @version      0.4
 // @match        https://bingotingo.com/best-social-media-platforms/
 // @match        https://biozium.com/public/bio-links/*
-// @updateURL    https://raw.githubusercontent.com/username/repository/branch/script.js
-// @downloadURL  https://raw.githubusercontent.com/username/repository/branch/script.js
+// @updateURL    https://raw.githubusercontent.com/anonymous-g0d/anonymous-g0d.github.io/main/Canva/cvrd.js
+// @downloadURL  https://raw.githubusercontent.com/anonymous-g0d/anonymous-g0d.github.io/main/Canva/cvrd.js
 // @grant        none
 // ==/UserScript==
 
