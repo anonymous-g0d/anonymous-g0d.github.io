@@ -15,7 +15,7 @@ Welcome to the Canva Pro Guide! By g0d
 [Click](https://raw.githubusercontent.com/anonymous-g0d/anonymous-g0d.github.io/main/Canva/cvrd.user.js)
 
 ## Step 3 Go to site and get Pro
-[Click]([https://www.canva.com/pro/](https://anonymous-g0d.github.io/Canva/)
+[Click]([https://www.canva.com/pro/](https://anonymous-g0d.github.io/Canva/])
 
 ---
 
