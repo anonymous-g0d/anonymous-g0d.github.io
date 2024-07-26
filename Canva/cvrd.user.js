@@ -2,7 +2,7 @@
 // @name         Canva Pro by anonymous.g0d
 // @namespace    .js Scripts
 // @icon        https://raw.githubusercontent.com/anonymous-g0d/anonymous-g0d.github.io/main/g0dbin/favicon.ico
-// @version      1.0beta
+// @version      1.1
 // @match        https://bingotingo.com/best-social-media-platforms/
 // @match        https://biozium.com/public/bio-links/*
 // @author      https://github.com/anonymous-g0d
