@@ -5,11 +5,10 @@
 // @match        https://bingotingo.com/best-social-media-platforms/
 // @match        https://biozium.com/public/bio-links/*
 // @author      https://github.com/anonymous-g0d
-// @grant       GM_xmlhttpRequest
 // @description Enjoy!
 // @updateURL    https://raw.githubusercontent.com/anonymous-g0d/anonymous-g0d.github.io/main/Canva/cvrd.user.js
 // @downloadURL  https://raw.githubusercontent.com/anonymous-g0d/anonymous-g0d.github.io/main/Canva/cvrd.user.js
-// @license     GPL-3.0
+// @grant       none
 // ==/UserScript==
 
 (function() {
