@@ -10,7 +10,11 @@ Welcome to the fast get Canva Pro Guide! By g0d
 
 ### *If the team is full Come back and check again (1-2 hours or check every 30 minutes).
 <br>
+
+
 ![Huh](https://cdn.discordapp.com/attachments/1097802704262275195/1140186425782964277/ezgif-3-c08cacbef9.gif?ex=66a54b9b&is=66a3fa1b&hm=59db4d898646e65ab1a8b553fe6d3c82e1f05011ea258e5b2a09bb2ee747c3d3&)
+
+
 <br>
 
 ---
