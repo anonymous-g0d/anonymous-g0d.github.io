@@ -8,7 +8,7 @@
 
 Welcome to the fast get Canva Pro Guide! By g0d
 
-### If the team is full Come back and check again (1-2 hours or check every 30 minutes).
+<span style="color: yellow;">If the team is full Come back and check again (1-2 hours or check every 30 minutes).</span>
 
 ## Step 1 Install Extensions (Browser)
 [Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) | [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) | [Safari](https://apps.apple.com/us/app/tampermonkey/id1482490089) | [Opera](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
