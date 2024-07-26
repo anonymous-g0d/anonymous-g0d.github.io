@@ -7,8 +7,8 @@
 // @author      https://github.com/anonymous-g0d
 // @grant       GM_xmlhttpRequest
 // @description Enjoy!
-// @updateURL    https://raw.githubusercontent.com/anonymous-g0d/anonymous-g0d.github.io/main/Canva/cvrd.js
-// @downloadURL  https://raw.githubusercontent.com/anonymous-g0d/anonymous-g0d.github.io/main/Canva/cvrd.js
+// @updateURL    https://raw.githubusercontent.com/anonymous-g0d/anonymous-g0d.github.io/main/Canva/cvrd.user.js
+// @downloadURL  https://raw.githubusercontent.com/anonymous-g0d/anonymous-g0d.github.io/main/Canva/cvrd.user.js
 // @license     GPL-3.0
 // ==/UserScript==
 
