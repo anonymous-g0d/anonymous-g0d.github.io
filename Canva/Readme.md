@@ -20,10 +20,11 @@ Welcome to the fast get Canva Pro Guide! By g0d
 [Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) | [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) | [Safari](https://apps.apple.com/us/app/tampermonkey/id1482490089) | [Opera](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
 
 ## Step 2 Install My Script
+*My script will quickly take you to that invite.*<br>
 [Click](https://raw.githubusercontent.com/anonymous-g0d/anonymous-g0d.github.io/main/Canva/cvrd.user.js)
 
 ## Step 3 Go to site and get Pro
-*My script will quickly take you to that invite.*<br>
+*Again, My script will quickly take you to that invite.*<br>
 https://anonymous-g0d.github.io/Canva <== 'you can copy to bookmark site'
 
 ---
