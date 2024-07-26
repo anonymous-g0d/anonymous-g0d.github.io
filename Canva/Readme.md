@@ -6,7 +6,7 @@
 
 # Canva Pro Guide
 
-Welcome to the Canva Pro Guide! By g0d
+Welcome to the fast get Canva Pro Guide! By g0d
 
 ## Step 1 Install Extensions (Browser)
 [Click](https://www.tampermonkey.net/index.php?browser)
