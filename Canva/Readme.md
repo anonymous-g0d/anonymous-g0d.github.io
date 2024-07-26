@@ -8,7 +8,7 @@
 
 Welcome to the fast get Canva Pro Guide! By g0d
 
-### Trick: 60 seconds unable skip. But you can use [uBlock Origin](https://ublockorigin.com/)(Recommanded) to time skip.
+### Trick: 60 seconds unable skip. But you can use [uBlock Origin](https://ublockorigin.com/)(Recommended) to time skip.
 ### *If the team is full Come back and check again (1-2 hours or check every 30 minutes).
 <br>
 
