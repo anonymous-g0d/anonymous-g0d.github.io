@@ -1,0 +1,236 @@
+{
+  "version": "2.26",
+  "message": "🔴Pirate VPN เป็นแอปฟรี ไม่มีการเก็บเงินใดๆจากผู้ใช้งาน\n🔴โปรดระวังมิจฉาชีพ​ที่เอาแอพไปขาย\n🔴เพื่อความปลอดภัย​ ดาวน์โหลด​แอปจาก Playstore เท่านั้น\n🔵อย่าลืมรีวิว5ดาวให้แอปของเรา\n🔵อย่าลืมดูโฆษณาให้จบ เพื่อซัพพอร์ตแอป\n⚫ผู้ใช้งานทรูมูฟ สมัครโปรฟรี *935*5# หลังเที่ยงคืน *935*52# เพื่อนการใช้งานต่อเนื่อง",
+  "data": [
+    {
+      "name": "TH00 TRUE-ID เน็ตบ้าน ToT",
+      "detail": "wanghin-tot-games.thai-vpn.com",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@true-id.thaivpn.uk:8880/?type=ws&encryption=none&flow=&host=wanghin-tot-games.thai-vpn.com&path=ray"
+    },
+    {
+      "name": "TH00 TRUE-ID เน็ตบ้าน Ais",
+      "detail": "wanghin-ais.thai-vpn.com",
+      "content": "vless://3bbe7e40-ad27-4ee7-922c-197c8771a841@true-id.thaivpn.uk:8880/?type=ws&encryption=none&flow=&host=wanghin-ais.thai-vpn.com&path=ray"
+    },
+    {
+      "name": "TH01 TRUE-ID Readyidc",
+      "detail": "x19.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@readyidc-11.thai-vpn.com:9091/?type=tcp&encryption=none&flow="
+    },
+    {
+      "name": "TH02 TRUE-ID Readyidc",
+      "detail": "x20.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@readyidc-6.thai-vpn.com:9091/?type=tcp&encryption=none&flow="
+    },
+    {
+      "name": "TH03 TRUE-ID Readyidc",
+      "detail": "x21.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@readyidc-7.thai-vpn.com:9091/?type=tcp&encryption=none&flow="
+    },
+    {
+      "name": "TH04 TRUE-ID Readyidc",
+      "detail": "x22.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@readyidc-2.thai-vpn.com:9091/?type=tcp&encryption=none&flow="
+    },
+    {
+      "name": "TH05 TRUE-ID Readyidc",
+      "detail": "x23.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@readyidc-12.thai-vpn.com:9091/?type=tcp&encryption=none&flow="
+    },
+    {
+      "name": "TH06 TRUE-ID Readyidc",
+      "detail": "x24.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@readyidc-4.thai-vpn.com:9091/?type=tcp&encryption=none&flow="
+    },
+    {
+      "name": "TH07 TRUE-ID Readyidc",
+      "detail": "x25.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@readyidc-5.thai-vpn.com:9091/?type=tcp&encryption=none&flow="
+    },
+    {
+      "name": "TH_01 TRUE Facebook Gaming ToT",
+      "detail": "x1.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@wanghin-tot-games.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH_02 TRUE Facebook Gaming Readyidc",
+      "detail": "x2.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@readyidc-11.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH_03 TRUE Facebook Gaming Readyidc",
+      "detail": "x3.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@readyidc-6.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH_04 TRUE Facebook Gaming Readyidc",
+      "detail": "x4.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@readyidc-7.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH_05 TRUE Facebook Gaming Readyidc",
+      "detail": "x5.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@readyidc-2.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH_06 TRUE Facebook Gaming Readyidc",
+      "detail": "x6.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@readyidc-12.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH_07 TRUE Facebook Gaming Readyidc",
+      "detail": "x7.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@readyidc-4.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH_08 TRUE Facebook Gaming Readyidc",
+      "detail": "x8.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@readyidc-5.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH_09 TRUE Facebook Gaming Ais",
+      "detail": "x9.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@wanghin-ais.thai-vpn.com:11111/?type=tcp&encryption=none&flow=&security=tls&sni=fbcdn.net&allowInsecure=1"
+    },
+    {
+      "name": "TH-01 AIS-Play ToT",
+      "detail": "x10.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@wanghin-tot-games.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH-02 AIS-Play Readyidc",
+      "detail": "x11.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@readyidc-11.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH-03 AIS-Play Readyidc",
+      "detail": "x12.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@readyidc-6.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH-04 AIS-Play Readyidc",
+      "detail": "x13.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@readyidc-7.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH-05 AIS-Play Readyidc",
+      "detail": "x14.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@readyidc-2.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH-06 AIS-Play Readyidc",
+      "detail": "x15.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@readyidc-12.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH-07 AIS-Play Readyidc",
+      "detail": "x16.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@readyidc-4.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH-08 AIS-Play Readyidc",
+      "detail": "x17.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@readyidc-5.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH-09 AIS-Play Ais",
+      "detail": "x18.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@wanghin-ais.thai-vpn.com:8080/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH-00 DTAC-ID เน็ตบ้าน ToT",
+      "detail": "wanghin-tot-games.thai-vpn.com",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@dtac-trueid.thaivpn.uk:8880/?type=ws&encryption=none&flow=&host=wanghin-tot-games.thai-vpn.com&path=ray"
+    },
+    {
+      "name": "TH-00 DTAC-ID เน็ตบ้าน Ais",
+      "detail": "wanghin-ais.thai-vpn.com",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@dtac-trueid.thaivpn.uk:8880/?type=ws&encryption=none&flow=&host=wanghin-ais.thai-vpn.com&path=ray"
+    },
+    {
+      "name": "TH-01 DTAC-ID Readyidc",
+      "detail": "x108.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@dtac-trueid.thaivpn.uk:8880/?type=ws&encryption=none&flow=&host=true-1.thaivpn.uk&path=ray"
+    },
+    {
+      "name": "TH-02 DTAC-ID Readyidc",
+      "detail": "x109.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@dtac-trueid.thaivpn.uk:8880/?type=ws&encryption=none&flow=&host=true-2.thaivpn.uk&path=ray"
+    },
+    {
+      "name": "TH-03 DTAC-ID Readyidc",
+      "detail": "x110.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@dtac-trueid.thaivpn.uk:8880/?type=ws&encryption=none&flow=&host=true-1.thaivpn.uk&path=ray"
+    },
+    {
+      "name": "TH-04 DTAC-ID Readyidc",
+      "detail": "x111.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@dtac-trueid.thaivpn.uk:8880/?type=ws&encryption=none&flow=&host=true-1.thaivpn.uk&path=ray"
+    },
+    {
+      "name": "TH-05 DTAC-ID Readyidc",
+      "detail": "x112.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@dtac-trueid.thaivpn.uk:8880/?type=ws&encryption=none&flow=&host=true-2.siamvpn.uk&path=ray"
+    },
+    {
+      "name": "TH-06 DTAC-ID Readyidc",
+      "detail": "x113.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@dtac-trueid.thaivpn.uk:8880/?type=ws&encryption=none&flow=&host=true-3.true-no-pro.uk&path=ray"
+    },
+    {
+      "name": "TH-07 DTAC-ID Readyidc",
+      "detail": "x114.drm.ac.th",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@dtac-trueid.thaivpn.uk:8880/?type=ws&encryption=none&flow=&host=true-2.mayneta.uk&path=ray"
+    },
+    {
+      "name": "TH-00 TRUE NoPro เน็ตบ้าน ToT",
+      "detail": "wanghin-tot-games.thai-vpn.com",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@www.opensignal.com:80?path=ray&security=none&encryption=none&host=www.opensignal.com.wanghin-tot-games.thai-vpn.com&type=ws#true+no+pro"
+    },
+    {
+      "name": "TH-00 TRUE NoPro เน็ตบ้าน Ais",
+      "detail": "wanghin-ais.thai-vpn.com",
+      "content": "vless://3bbe7e40-ad27-4ee7-922c-197c8771a841@www.opensignal.com:80?path=ray&security=none&encryption=none&host=www.opensignal.com.wanghin-ais.thai-vpn.com&type=ws#true+no+pro"
+    },
+    {
+      "name": "TH-01 TRUE NoPro Readyidc",
+      "detail": "readyidc-11.thai-vpn.com",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@www.opensignal.com:80?path=ray&security=none&encryption=none&host=www.opensignal.com.true-1.thaivpn.uk&type=ws#true+no+pro"
+    },
+    {
+      "name": "TH-02 TRUE NoPro Readyidc สำหรับเล่น Game",
+      "detail": "readyidc-17.thai-vpn.com",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@www.opensignal.com:80?path=ray&security=none&encryption=none&host=www.opensignal.com.true-2.wanghin.uk&type=ws#true+no+pro"
+    },
+    {
+      "name": "TH-03 TRUE NoPro Readyidc",
+      "detail": "readyidc-7.thai-vpn.com",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@www.opensignal.com:80?path=ray&security=none&encryption=none&host=www.opensignal.com.true-3.thaivpn.uk&type=ws#true+no+pro"
+    },
+    {
+      "name": "TH-04 TRUE NoPro Readyidc",
+      "detail": "readyidc-2.thai-vpn.com",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@www.opensignal.com:80?path=ray&security=none&encryption=none&host=www.opensignal.com.true-1.wanghin.uk&type=ws#true+no+pro"
+    },
+    {
+      "name": "TH-05 TRUE NoPro Readyidc สำหรับเล่น Game",
+      "detail": "readyidc-12.thai-vpn.com",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@www.opensignal.com:80?path=ray&security=none&encryption=none&host=www.opensignal.com.true-2.siamvpn.uk&type=ws#true+no+pro"
+    },
+    {
+      "name": "TH-06 TRUE NoPro Readyidc",
+      "detail": "readyidc-4.thai-vpn.com",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@www.opensignal.com:80?path=ray&security=none&encryption=none&host=www.opensignal.com.true-3.true-no-pro.uk&type=ws#true+no+pro"
+    },
+    {
+      "name": "TH-07 TRUE NoPro Readyidc",
+      "detail": "readyidc-5.thai-vpn.com",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@www.opensignal.com:80?path=ray&security=none&encryption=none&host=www.opensignal.com.true-2.mayneta.uk&type=ws#true+no+pro"
+    },
+    {
+      "name": "TH-08 TRUE NoPro Readyidc",
+      "detail": "readyidc-6.thai-vpn.com",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@www.opensignal.com:80?path=ray&security=none&encryption=none&host=www.opensignal.com.true-2.thaivpn.uk&type=ws#true+no+pro"
+    }
+  ]
+}
