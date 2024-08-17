@@ -1,6 +1,7 @@
 {
-  "version": "2.26",
-  "message": "🔴Pirate VPN เป็นแอปฟรี ไม่มีการเก็บเงินใดๆจากผู้ใช้งาน\n🔴โปรดระวังมิจฉาชีพ​ที่เอาแอพไปขาย\n🔴เพื่อความปลอดภัย​ ดาวน์โหลด​แอปจาก Playstore เท่านั้น\n🔵อย่าลืมรีวิว5ดาวให้แอปของเรา\n🔵อย่าลืมดูโฆษณาให้จบ เพื่อซัพพอร์ตแอป\n⚫ผู้ใช้งานทรูมูฟ สมัครโปรฟรี *935*5# หลังเที่ยงคืน *935*52# เพื่อนการใช้งานต่อเนื่อง",
+  "version": "2.28",
+  "message": "🔴 **Pirate VPN** เป็นแอปฟรี ไม่มีการเก็บเงินใดๆจากผู้ใช้งาน\n🔴 **โปรดระวังมิจฉาชีพ​ที่เอาแอปไปขาย**\n🔴 **เพื่อความปลอดภัย​ ดาวน์โหลด​แอปจาก Play Store เท่านั้น**\n\n🔵 **อย่าลืมรีวิว 5 ดาวให้แอปของเรา**\n🔵 **อย่าลืมดูโฆษณาให้จบ เพื่อซัพพอร์ตแอป**\n\n⚫ **ผู้ใช้งานทรูมูฟ สมัครโปรฟรี**\n*935*5# **หลังเที่ยงคืน**\n*935*52# **เพื่อการใช้งานต่อเนื่อง**\n\n🌟 ขอบคุณที่สนับสนุน **Pirate VPN**! 🌟
+",
   "data": [
     {
       "name": "TH00 TRUE-ID เน็ตบ้าน ToT",
@@ -193,44 +194,54 @@
       "content": "vless://3bbe7e40-ad27-4ee7-922c-197c8771a841@www.opensignal.com:80?path=ray&security=none&encryption=none&host=www.opensignal.com.wanghin-ais.thai-vpn.com&type=ws#true+no+pro"
     },
     {
-      "name": "TH-01 TRUE NoPro Readyidc",
-      "detail": "readyidc-11.thai-vpn.com",
-      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@www.opensignal.com:80?path=ray&security=none&encryption=none&host=www.opensignal.com.true-1.thaivpn.uk&type=ws#true+no+pro"
+      "name": "TH-01 TRUE NoPro Visperhost",
+      "detail": "visperhost-2.thai-vpn.com",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@www.opensignal.com:80?path=ray&security=none&encryption=none&host=www.opensignal.com.true-3.wanghin.uk&type=ws#true+no+pro"
     },
     {
-      "name": "TH-02 TRUE NoPro Readyidc สำหรับเล่น Game",
+      "name": "TH-02 TRUE NoPro Visperhost",
+      "detail": "visperhost-3.thai-vpn.com",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@www.opensignal.com:80?path=ray&security=none&encryption=none&host=www.opensignal.com.true-1.siamvpn.uk&type=ws#true+no+pro"
+    },
+    {
+      "name": "TH-03 TRUE NoPro Readyidc สำหรับเล่น Game",
       "detail": "readyidc-17.thai-vpn.com",
       "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@www.opensignal.com:80?path=ray&security=none&encryption=none&host=www.opensignal.com.true-2.wanghin.uk&type=ws#true+no+pro"
     },
     {
-      "name": "TH-03 TRUE NoPro Readyidc",
+      "name": "TH-04 TRUE NoPro Readyidc",
       "detail": "readyidc-7.thai-vpn.com",
       "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@www.opensignal.com:80?path=ray&security=none&encryption=none&host=www.opensignal.com.true-3.thaivpn.uk&type=ws#true+no+pro"
     },
     {
-      "name": "TH-04 TRUE NoPro Readyidc",
+      "name": "TH-05 TRUE NoPro Readyidc",
       "detail": "readyidc-2.thai-vpn.com",
       "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@www.opensignal.com:80?path=ray&security=none&encryption=none&host=www.opensignal.com.true-1.wanghin.uk&type=ws#true+no+pro"
     },
     {
-      "name": "TH-05 TRUE NoPro Readyidc สำหรับเล่น Game",
+      "name": "TH-06 TRUE NoPro Readyidc สำหรับเล่น Game",
       "detail": "readyidc-12.thai-vpn.com",
       "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@www.opensignal.com:80?path=ray&security=none&encryption=none&host=www.opensignal.com.true-2.siamvpn.uk&type=ws#true+no+pro"
     },
     {
-      "name": "TH-06 TRUE NoPro Readyidc",
+      "name": "TH-07 TRUE NoPro Readyidc",
       "detail": "readyidc-4.thai-vpn.com",
       "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@www.opensignal.com:80?path=ray&security=none&encryption=none&host=www.opensignal.com.true-3.true-no-pro.uk&type=ws#true+no+pro"
     },
     {
-      "name": "TH-07 TRUE NoPro Readyidc",
+      "name": "TH-08 TRUE NoPro Readyidc",
       "detail": "readyidc-5.thai-vpn.com",
       "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@www.opensignal.com:80?path=ray&security=none&encryption=none&host=www.opensignal.com.true-2.mayneta.uk&type=ws#true+no+pro"
     },
     {
-      "name": "TH-08 TRUE NoPro Readyidc",
+      "name": "TH-09 TRUE NoPro Readyidc",
       "detail": "readyidc-6.thai-vpn.com",
       "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@www.opensignal.com:80?path=ray&security=none&encryption=none&host=www.opensignal.com.true-2.thaivpn.uk&type=ws#true+no+pro"
+    },
+    {
+      "name": "TH-10 TRUE NoPro Readyidc",
+      "detail": "readyidc-11.thai-vpn.com",
+      "content": "vless://737c7836-9c2e-4517-8204-e1e4bddcaa0f@www.opensignal.com:80?path=ray&security=none&encryption=none&host=www.opensignal.com.true-1.thaivpn.uk&type=ws#true+no+pro"
     }
   ]
 }
